@@ -1,0 +1,34 @@
+{
+    "Jobs@linkedin.com": {
+        "Occurance": 1,
+        "EmailType": "non-human"
+    },
+    "gregor@mxanalytics.com": {
+        "Occurance": 1,
+        "EmailType": "non-human"
+    },
+    "susan.daniels@moo.com": {
+        "Occurance": 1,
+        "EmailType": "human"
+    },
+    "aayush@deepminds.xyz": {
+        "Occurance": 1,
+        "EmailType": "non-human"
+    },
+    "hr@vancuemonics.com": {
+        "Occurance": 1,
+        "EmailType": "non-human"
+    },
+    "syneca.gregory@gmail.com": {
+        "Occurance": 1,
+        "EmailType": "human"
+    },
+    "realtors@bbn.com": {
+        "Occurance": 1,
+        "EmailType": "non-human"
+    },
+    "info@content.linkedin.com": {
+        "Occurance": 1,
+        "EmailType": "non-human"
+    }
+}
