@@ -15,6 +15,8 @@ for email,occ in res.items():
     username = email.split('@')[0]
     if re.match(r'[\w\.-]+\.[\w\.-]+',username):
         cat = 'human'
+    elif len(username)>=8:
+        cat = 'human'
     else:
         cat = 'non-human'
     output[email] = {"Occurance":occ,"EmailType":cat}

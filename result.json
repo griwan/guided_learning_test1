@@ -25,7 +25,7 @@
     },
     "realtors@bbn.com": {
         "Occurance": 1,
-        "EmailType": "non-human"
+        "EmailType": "human"
     },
     "info@content.linkedin.com": {
         "Occurance": 1,
